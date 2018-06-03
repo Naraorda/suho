@@ -11,4 +11,3 @@ app.append(Button({ id: 'btn-down', children: 'down' }));
 $('#btn-up').on('click', increase);
 $('#btn-down').on('click', decrease);
 subscribe(render);
-   ㅇㄻㅇㄻㄴㄻㄴㄻㄴㄹ
